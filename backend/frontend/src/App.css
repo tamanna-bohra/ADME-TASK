@@ -1,0 +1,38 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #55a1f3;
+  padding-bottom: 100%;
+  padding-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #006de2;
+  color: white;
+  border: none;
+  margin-left: 30px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+input{
+  padding: 10px 20px;
+}
+button:hover {
+  background-color: #0056b3;
+}
+li{
+  background-color: #007bff;
+  margin: 20px 20px;
+  padding: 10px 20px;
+}
